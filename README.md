@@ -35,8 +35,7 @@ GPTIKA/
 ├── README.md
 └── package.json
 
-
-watch here = https://www.loom.com/share/2f4355eb8fc74ca28b54bafcd6e3192f?sid=56a7750c-06cc-41d1-a5d8-638267927110
+🎥 **Live Demo**: [Watch on Loom](https://www.loom.com/share/2f4355eb8fc74ca28b54bafcd6e3192f?sid=5429f637-cafb-4489-8014-c8e47afd99db)
 
 clone the repo
 git clone https://github.com/bhumika-ks31/GPTIKA.git
